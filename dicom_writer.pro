@@ -3,7 +3,7 @@
 ; 	DICOM_WRITER
 ;
 ; VERSION:
-;	0.21
+;	0.2.2
 ;
 ; PURPOSE:
 ;	Generate a dicom file from within RSI IDL
@@ -12,7 +12,7 @@
 ;	Bhautik Joshi
 ;
 ; EMAIL:
-;	bjoshi@geocities.com
+;	bjoshi@gmail.com
 ;
 ; HOMEPAGE:
 ;	http://cow.mooh.org
@@ -79,6 +79,7 @@
 ;		* more data in the header can be set manually
 ;	version 0.21	15-01-2002 - uploaded all over the place & fixed bug
 ;				     that didn't update patient, patid etc.
+;	version 0.2.2	06-02-2018 - fixed email, moved to github
 ;
 ; TODO:
 ;	* Allow for more robust dicom writing
